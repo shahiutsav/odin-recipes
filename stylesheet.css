@@ -4,18 +4,22 @@ h1 {
 
 .recipes_list {
     list-style: none;
+    align-content: center;
 }
 
-li {
-    margin-bottom: 25px;
+.recipes_list li {
+    background-color: #ffb80e;
+    border-radius: 5px;
+    padding: 10px 30px;
+    width: 25%;
+    margin: auto;
+    box-sizing: border-box;
+    color: white;
+    text-align: center;
 }
 
 a {
     text-decoration: none;
-    color: white;
-    background-color: #ffb80e;
-    padding: 10px 5px;
-    border-radius: 5%;
 }
 
 .recipe_img_detail {
