@@ -17,3 +17,12 @@ a {
     padding: 10px 5px;
     border-radius: 5%;
 }
+
+.recipe_img_detail {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border-radius: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
